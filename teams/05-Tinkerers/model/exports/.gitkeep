@@ -1,2 +1,0 @@
-# ONNX / TorchScript exports ready for deployment — not committed to git
-# Run: python model/src/export_onnx.py to generate defect_model.onnx
